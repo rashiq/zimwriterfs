@@ -1,4 +1,4 @@
-zimwriterfs (migrated to zim-tools repository)
+zimwriterfs (migrated to [zim-tools](https://github.com/openzim/zim-tools) repository)
 ==============================================
 
 
